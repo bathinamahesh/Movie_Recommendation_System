@@ -4,4 +4,4 @@ Movie Recommendation System powered by Python machine learning algorithms and th
 ## Output 
 
 ![alt text](https://github.com/bathinamahesh/Movie_Recommendation_System/blob/master/screenshots/1.png?raw=true)
-![alt text](https://github.com/bathinamahesh/Movie_Recommendation_System/blob/master/screenshots/1.png?raw=true)
+![alt text](https://github.com/bathinamahesh/Movie_Recommendation_System/blob/master/screenshots/2.png?raw=true)
